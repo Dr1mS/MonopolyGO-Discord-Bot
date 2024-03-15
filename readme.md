@@ -24,3 +24,7 @@ This Python script is designed to scrape reward links and special event informat
 ## Note
 
 This script is intended for educational purposes and should not be used to violate the terms of service of any website or service.
+
+## Exemple :
+![image](https://github.com/Dr1mS/MonopolyGO-Discord-Bot/assets/95386072/f06b3340-058b-47ff-9c45-868e475810b1)
+![image](https://github.com/Dr1mS/MonopolyGO-Discord-Bot/assets/95386072/fa73469d-8dc4-442a-ae2c-77bb135be72a)
